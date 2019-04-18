@@ -1,1 +1,0 @@
-web: gunicorn oscarshop.wsgi --log-file -
